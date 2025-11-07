@@ -6,7 +6,7 @@
 - Index
   - [:loudspeaker:  Introduction](#loudspeaker--introduction)
   - [:wrench:  Equipments Used](#wrench--equipments-used)
-  - [:memo:  PBX Usage Manual (for the Organization)](#memo--documentations)
+  - [:memo:  PBX Usage Manual (for the Organization)](#memo--PBX-Usage-Manual-(for-the-Organization))
   - [:oncoming_automobile:  Our Final Product in Action](#oncoming_automobile--our-final-product-in-action)
   - [:purple_heart:  Credits](#purple_heart--credits)
 
