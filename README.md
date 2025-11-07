@@ -55,7 +55,7 @@ The Model Diagram is available [here](https://github.com/Adinkra-Ideas/PBX_Setup
 <br />
 
 ## :purple_heart:  Test Credentials
-- Test Extension Credential [Ext=234, PWD=12345]
+- Test Extension Credential [Username=234@testpbx.top, PWD=12345, Hostname=testpbx.top]. IP address may need to be allowed access through the system firewall. Kindly contact me via email on defosauyi[gmail]
 - To test with Admin Login credentials, please send me an email on defosauyi[gmail]
 
 <br />
