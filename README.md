@@ -6,8 +6,8 @@
 - Index
   - [:loudspeaker:  Introduction](#loudspeaker--introduction)
   - [:wrench:  Equipments Used](#wrench--equipments-used)
+  - [:oncoming_automobile:  Development Process](#oncoming_automobile--development-process)
   - [:memo:  PBX Usage Manual](#memo--pbx-usage-manual)
-  - [:oncoming_automobile:  Our Final Product in Action](#oncoming_automobile--our-final-product-in-action)
   - [:purple_heart:  Credits](#purple_heart--credits)
 
 <br />
@@ -31,6 +31,13 @@ Below is a List showing some of the Tools/Equipments used that are worth mention
 - Zoiper Free VoIP SIP softphone
 - Free non-copyright hold music downloaded from https://pixabay.com/de/music/fr%c3%b6hliche-kinderlieder-advertising-sweet-carefree-on-hold-background-funny-music-20619/
 - Elevenlabs TTS A.I Engine
+
+<br />
+<br />
+
+## :oncoming_automobile:  Our Final Product in Action
+Before embarking on setting up the PBX system, I first created a Model Diagram showing a graphical representation of the Tasks.
+The Model Diagram is available [here](https://github.com/Adinkra-Ideas/PBX_Setup/blob/main/Docs/Task-Diagram.pdf)
 
 <br />
 <br />
