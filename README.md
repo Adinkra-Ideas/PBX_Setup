@@ -8,6 +8,7 @@
   - [:wrench:  Equipments Used](#wrench--equipments-used)
   - [:oncoming_automobile:  Development Process](#oncoming_automobile--development-process)
   - [:memo:  PBX Usage Manual](#memo--pbx-usage-manual)
+    [:purple_heart:  Test Credentials](#purple_heart--test-credentials)
 
 <br />
 <br />
@@ -49,6 +50,13 @@ The Model Diagram is available [here](https://github.com/Adinkra-Ideas/PBX_Setup
 
 ## :memo:  PBX Usage Manual
 - You will find the full usage manual documentation for Organizations [here](https://github.com/Adinkra-Ideas/PBX_Setup/blob/main/Docs/Usage%20Manual.pdf)
+
+<br />
+<br />
+
+## :purple_heart:  Test Credentials
+- Test Extension Credential [Ext=234, PWD=12345]
+- To test with Admin Login credentials, please send me an email on defosauyi[gmail]
 
 <br />
 <br />
