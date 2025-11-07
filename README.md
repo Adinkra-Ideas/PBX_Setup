@@ -16,3 +16,8 @@
 ## :loudspeaker:  Introduction
 In this Project, I setup a complete business phone system using Crosstalk PBX, hosted on Vultr Cloud Servers.
 The PBX system handles inbound calls intelligently based on time of day, caller input, and availability of staff.
+
+You will find the full Project Description [here](https://github.com/Adinkra-Ideas/PBX_Setup/blob/main/Docs/Task.pdf)
+
+<br />
+<br />
