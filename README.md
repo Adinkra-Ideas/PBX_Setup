@@ -38,7 +38,7 @@ Below is a List showing some of the Tools/Equipments used that are worth mention
 Before embarking on setting up the PBX system, I first created a Model Diagram showing a graphical representation of the Tasks.
 The Model Diagram is available [here](https://github.com/Adinkra-Ideas/PBX_Setup/blob/main/Docs/Task-Diagram.pdf)
 
-# TODOs:
+### TODOs:
 - Trunking and E911
 - Company Professional, responsive image for the PBX
 - Documentation covering Testing log for each routing Option
