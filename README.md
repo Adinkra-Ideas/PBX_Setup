@@ -35,7 +35,7 @@ Below is a List showing some of the Tools/Equipments used that are worth mention
 <br />
 <br />
 
-## :oncoming_automobile:  Our Final Product in Action
+## :oncoming_automobile:  Development Process
 Before embarking on setting up the PBX system, I first created a Model Diagram showing a graphical representation of the Tasks.
 The Model Diagram is available [here](https://github.com/Adinkra-Ideas/PBX_Setup/blob/main/Docs/Task-Diagram.pdf)
 
