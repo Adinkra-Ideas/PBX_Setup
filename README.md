@@ -21,3 +21,16 @@ You will find the full Project Description [here](https://github.com/Adinkra-Ide
 
 <br />
 <br />
+
+## :wrench:  Equipments Used
+Below is a List showing the some of the Tools/Equipments used that are worth mentioning for this Project:
+
+- Official FreePBX 16 ISO
+- Paid Vultr Cloud Servers
+- Domain name purchased from Namesilo
+- Zoiper Free VoIP SIP softphone
+- Free non-copyright hold music downloaded from https://pixabay.com/de/music/fr%c3%b6hliche-kinderlieder-advertising-sweet-carefree-on-hold-background-funny-music-20619/
+- Elevenlabs TTS A.I Engine
+
+<br />
+<br />
