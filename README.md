@@ -6,7 +6,7 @@
 - Index
   - [:loudspeaker:  Introduction](#loudspeaker--introduction)
   - [:wrench:  Equipments Used](#wrench--equipments-used)
-  - [:memo:  PBX Usage Manual (for the Organization)](#memo--PBX-Usage-Manual-(for-the-Organization))
+  - [:memo:  PBX Usage Manual](#memo--pbx-usage-manual)
   - [:oncoming_automobile:  Our Final Product in Action](#oncoming_automobile--our-final-product-in-action)
   - [:purple_heart:  Credits](#purple_heart--credits)
 
@@ -35,7 +35,7 @@ Below is a List showing some of the Tools/Equipments used that are worth mention
 <br />
 <br />
 
-## :memo:  PBX Usage Manual (for the Organization)
+## :memo:  PBX Usage Manual
 - [High-level Data Flow Explanation](/docs/Architecture.md)
 - [Setting Environment](/docs/environment.md)
 - [How Configure Github Action CI/CD](https://github.com/sejoonkimmm/Car-instrument/wiki/How-Configure-Cross-compile-on-Github-action---Docker%3F)
