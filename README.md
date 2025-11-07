@@ -8,7 +8,7 @@
   - [:wrench:  Equipments Used](#wrench--equipments-used)
   - [:oncoming_automobile:  Development Process](#oncoming_automobile--development-process)
   - [:memo:  PBX Usage Manual](#memo--pbx-usage-manual)
-    [:purple_heart:  Test Credentials](#purple_heart--test-credentials)
+  - [:purple_heart:  Test Credentials](#purple_heart--test-credentials)
 
 <br />
 <br />
