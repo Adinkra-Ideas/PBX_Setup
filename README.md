@@ -40,7 +40,7 @@ The Model Diagram is available [here](https://github.com/Adinkra-Ideas/PBX_Setup
 
 # TODOs:
 - Trunking and E911
-  Company Professional, responsive image for the PBX
+- Company Professional, responsive image for the PBX
 - Documentation covering Testing log for each routing Option
 - Documenting all ports that needs to be behind https and not unsecure ports
 
